@@ -17,5 +17,4 @@ for ($i; $i -lt $b.Count; $i++) {
 
 <#
 Hiroshi.Murata
-Bitscript,inc
 #>
