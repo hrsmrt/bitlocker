@@ -1,6 +1,6 @@
 # BitLocker
 
-Active Directoryに登録されているPCにBitLockerを展開し, 管理するためのPowershellスクリプトを書いています.（作成途中です.）
+Active Directoryに登録されているPCのBitLockerを展開, 管理するためのPowershellスクリプトを書いています. 実際に展開する時は対話型シェルで１つずつ実行した方が良いかもしれません. （作成途中です.）
 
 環境によってスクリプトを変える必要があるかもしれません.
 
